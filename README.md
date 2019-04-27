@@ -1,4 +1,4 @@
-# (unsecure) UF2 Bootloader
+# (unlock) UF2 Bootloader
 **(This project was forked from https://github.com/adafruit/uf2-samdx1 to purposefully removed protected flash areas so it can be overwritten. This is for the express purpose of enabling full programming/debug capabilities for Atmel Studio 7 with Segger's J-Link SWD debug probe.)**
 
 This repository contains a bootloader, derived from Atmel's SAM-BA,
